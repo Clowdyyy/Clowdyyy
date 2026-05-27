@@ -1,16 +1,21 @@
-## Hi there 👋
+# Привет! Я Аббосхон 👋
 
-<!--
-**Clowdyyy/Clowdyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-разработчик и специалист по автоматизации бизнес-процессов с интеграцией ИИ (AI Agents). Помогаю бизнесу экономить время и деньги, перекладывая рутину на умных чат-ботов и нейросети.
 
-Here are some ideas to get you started:
+## 🛠️ Мой стек технологий
+- **Языки:** Python (Core, OOP, Asyncio)
+- **Веб-фреймворки:** FastAPI, Uvicorn
+- **Базы данных:** SQLite, SQL
+- **AI & Integrations:** Gemini API (REST v1beta), Telegram Bot API, Webhooks / Polling
+- **Инструменты:** Git, GitHub, Cursor, PowerShell
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Чем я могу помочь вашему бизнесу:
+- **Интеграция ИИ:** Подключение нейросетей (Gemini/ChatGPT) к вашим сайтам, CRM или базам данных для анализа текстов, отзывов и генерации ответов.
+- **Разработка API & Вебхуков:** Создание быстрых асинхронных серверов на FastAPI для мгновенного обмена данными между системами.
+- **Telegram-автоматизация:** Разработка умных ботов, систем экстренных алертов (Real-time notifications) и ассистентов.
+
+## 📈 Мои проекты
+- **[AI Ticket Agent (FastAPI)](https://github.com/Clowdyyy/ai-ticket-agent-fastapi)** — Асинхронный ИИ-агент для техподдержки. Принимает тикеты через Webhooks, анализирует тональность/категорию через Gemini API, сохраняет в SQLite и отправляет экстренные алерты в Telegram.
+
+---
+📫 **Как со мной связаться:** Напишите мне в Telegram или через личные сообщения на фриланс-бирже!
