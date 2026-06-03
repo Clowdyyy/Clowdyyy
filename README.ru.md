@@ -23,8 +23,8 @@ Backend-разработчик и специалист по автоматиза
 
 ### 💻 Мои проекты
 
-* **[AI Ticket Agent (FastAPI)](https://github.com/clowdyyy/YOUR-REPO-NAME)** — Асинхронный ИИ-агент для техподдержки. Принимает тикеты через Webhooks, анализирует тональность/категорию через Gemini API, сохраняет в SQLite и отправляет экстренные алерты в Telegram.
-* **[AI Document Analyst](https://github.com/clowdyyy/YOUR-REPO-NAME)** — Полностью локальная система RAG (Retrieval-Augmented Generation) для конфиденциального анализа PDF-документов. Приложение позволяет загружать PDF-файлы и вести с ними интерактивный диалог, используя мощность локальной нейросети Llama 3 без отправки данных на внешние серверы.
+* **[AI Ticket Agent (FastAPI)](https://github.com/clowdyyy/ai-ticket-agent-fastapi)** — Асинхронный ИИ-агент для техподдержки. Принимает тикеты через Webhooks, анализирует тональность/категорию через Gemini API, сохраняет в SQLite и отправляет экстренные алерты в Telegram.
+* **[AI Document Analyst](https://github.com/clowdyyy/ai-document-analyst)** — Полностью локальная система RAG (Retrieval-Augmented Generation) для конфиденциального анализа PDF-документов. Приложение позволяет загружать PDF-файлы и вести с ними интерактивный диалог, используя мощность локальной нейросети Llama 3 без отправки данных на внешние серверы.
 
 ---
 
