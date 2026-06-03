@@ -1,3 +1,8 @@
+<p align="right">
+  <a href="https://github.com/clowdyyy/clowdyyy/blob/main/README.md"><img src="https://img.shields.io/badge/Language-English-blue?style=flat-square" alt="English"></a>
+  <a href="https://github.com/clowdyyy/clowdyyy/blob/main/README.ru.md"><img src="https://img.shields.io/badge/Язык-Русский-red?style=flat-square" alt="Русский"></a>
+</p>
+
 # Hi, I'm Abboskhon 👋
 
 Backend Developer and AI Integration Specialist. I help businesses automate workflows, save time, and reduce operational costs by deploying intelligent AI agents, custom chat-bots, and secure local LLM solutions.
