@@ -1,22 +1,28 @@
-# Привет! Я Аббосхон 👋
+# Hi, I'm Abboskhon 👋
 
-Backend-разработчик и специалист по автоматизации бизнес-процессов с интеграцией ИИ (AI Agents). Помогаю бизнесу экономить время и деньги, перекладывая рутину на умных чат-ботов и нейросети.
+Backend Developer and AI Integration Specialist. I help businesses automate workflows, save time, and reduce operational costs by deploying intelligent AI agents, custom chat-bots, and secure local LLM solutions.
 
-## 🛠️ Мой стек технологий
-- **Языки:** Python (Core, OOP, Asyncio)
-- **Веб-фреймворки:** FastAPI, Uvicorn
-- **Базы данных:** SQLite, SQL
-- **AI & Integrations:** Gemini API (REST v1beta), Telegram Bot API, Webhooks / Polling
-- **Инструменты:** Git, GitHub, Cursor, PowerShell
+### 🛠️ Tech Stack
 
-## 🚀 Чем я могу помочь вашему бизнесу:
-- **Интеграция ИИ:** Подключение нейросетей (Gemini/ChatGPT) к вашим сайтам, CRM или базам данных для анализа текстов, отзывов и генерации ответов.
-- **Разработка API & Вебхуков:** Создание быстрых асинхронных серверов на FastAPI для мгновенного обмена данными между системами.
-- **Telegram-автоматизация:** Разработка умных ботов, систем экстренных алертов (Real-time notifications) и ассистентов.
+* **Languages:** Python (Core, OOP, Asyncio)
+* **Web Frameworks:** FastAPI, Uvicorn
+* **Databases:** SQLite, SQL
+* **AI & Integrations:** Gemini API (REST v1beta), OpenAI API, Ollama (Local LLMs), Telegram Bot API, Webhooks / Polling
+* **Tools & Environment:** Git, GitHub, Docker, Cursor, PowerShell
 
-## 📈 Мои проекты
-- **[AI Ticket Agent (FastAPI)](https://github.com/Clowdyyy/ai-ticket-agent-fastapi)** — Асинхронный ИИ-агент для техподдержки. Принимает тикеты через Webhooks, анализирует тональность/категорию через Gemini API, сохраняет в SQLite и отправляет экстренные алерты в Telegram.
-- **[AI Document Analyst](https://github.com/Clowdyyy/ai-document-analyst)** — Полностью локальная система RAG (Retrieval-Augmented Generation) для конфиденциального анализа PDF-документов. Приложение позволяет загружать PDF-файлы и вести с ними интерактивный диалог (задавать вопросы), используя контекст документов и мощность локальной нейросети Llama 3 без отправки данных на внешние серверы.
+### 🚀 How I Can Help Your Business
+
+* **AI & LLM Integration:** Connecting AI models (Gemini, ChatGPT, Ollama) to your apps, CRMs, or databases for text analysis, automated customer reviews, and smart response generation.
+* **API & Webhook Development:** Designing fast, asynchronous backend servers using FastAPI for seamless real-time data integration.
+* **Telegram Automation:** Developing advanced bots, interactive AI assistants, and real-time notification/alert systems.
+
+### 💻 Featured Projects
+
+* **[AI Ticket Agent (FastAPI)](https://github.com/clowdyyy/YOUR-REPO-NAME)** — An asynchronous AI-powered agent for tech support automation. It processes incoming tickets via Webhooks, analyzes sentiment and intent using the Gemini API, stores logs in SQLite, and forwards urgent alerts straight to Telegram.
+* **[AI Document Analyst](https://github.com/clowdyyy/YOUR-REPO-NAME)** — A fully local RAG (Retrieval-Augmented Generation) system for secure PDF document analysis. Users can upload confidential PDFs and interact with them via a custom chat interface powered by a local Llama 3 model via Ollama (100% data privacy, zero external API calls).
 
 ---
-📫 **Как со мной связаться:** Напишите мне в Telegram [тык](https://t.me/abbosibodullaev) или через личные сообщения на фриланс-бирже!
+
+### 📫 Let's Connect!
+* **Telegram:** [@clwdx](https://t.me/clwdx)
+* Feel free to drop me a message here or via freelance platform direct messages!
